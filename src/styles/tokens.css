@@ -1,0 +1,33 @@
+:root {
+  --paper: #f3efe7;
+  --paper-2: #ebe5d9;
+  --card: #fbf9f4;
+  --ink: #1e1c18;
+  --ink-2: #3b372f;
+  --muted: #6e685c;
+  --line: #ddd6c8;
+  --olive: #4f5a2e;
+  --olive-2: #3e4723;
+  --olive-soft: #dde1cc;
+  --sage: #e6e8d9;
+  --dark: #2a2119;
+  --dark-2: #1b1510;
+  --gold: #c9a45c;
+  --white: #ffffff;
+
+  --font-serif: 'Cormorant Garamond', 'Times New Roman', serif;
+  --font-sans: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --r-sm: 12px;
+  --r-md: 18px;
+  --r-lg: 24px;
+  --r-xl: 32px;
+
+  --shadow-sm: 0 1px 2px rgba(30, 28, 24, 0.06), 0 2px 8px rgba(30, 28, 24, 0.05);
+  --shadow-md: 0 10px 30px -12px rgba(30, 28, 24, 0.25);
+  --shadow-lg: 0 30px 60px -25px rgba(30, 28, 24, 0.45);
+
+  --container: 1240px;
+  --gutter: clamp(16px, 4vw, 40px);
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
